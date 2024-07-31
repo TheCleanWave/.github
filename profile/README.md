@@ -1,4 +1,4 @@
-## CleanWave Project
+# CleanWave Project
 
-# What is CleanWave?
+## What is CleanWave?
 - CleanWave is an open source DNS server for blocking ads and telemetry sites.
